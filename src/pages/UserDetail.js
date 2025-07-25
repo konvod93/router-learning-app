@@ -1,6 +1,6 @@
 import { useParams, useNavigate } from "react-router-dom";
 
-{/* Компонент детальной информации о пользователе */}
+// Компонент детальной информации о пользователе
 
 const UserDetail = () => {
   const { id } = useParams();

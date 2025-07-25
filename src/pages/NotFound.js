@@ -1,6 +1,6 @@
 import { useNavigate } from "react-router-dom";
 
-{/* Компонент страницы 404 */}
+// Компонент страницы 404
 
 const NotFound = () => {
   const navigate = useNavigate();

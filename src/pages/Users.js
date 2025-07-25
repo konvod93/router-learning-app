@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 
-{/* Компонент списка пользователей */}
+// Компонент списка пользователей
 
 const Users = () => {
   const users = [

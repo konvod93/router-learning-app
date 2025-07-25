@@ -1,6 +1,6 @@
 import { useNavigate, useLocation } from "react-router-dom";
 
-{/* Компонент контактов с программной навигацией */}
+// Компонент контактов с программной навигацией
 
 const Contact = () => {
   const navigate = useNavigate();
