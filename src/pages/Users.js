@@ -1,5 +1,7 @@
 import { Link } from "react-router-dom";
 
+{/* Компонент списка пользователей */}
+
 const Users = () => {
   const users = [
     { id: 1, name: 'Алексей Петров', role: 'Frontend Developer' },

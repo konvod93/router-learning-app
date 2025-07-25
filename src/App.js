@@ -6,20 +6,6 @@ import Users from './pages/Users';
 import UserDetail from './pages/UserDetail';
 import Contact from './pages/Contact';
 
-<>
-  {/* Компонент главной страницы */}
-  <Home />
-  {/* Компонент страницы "О нас" */}
-  <About />
-  {/* Компонент списка пользователей */}
-  <Users />
-  {/* Компонент детальной информации о пользователе */}
-  <UserDetail />
-  {/* Компонент контактов с программной навигацией */}
-  <Contact />
-</>;
-
-// Компонент страницы 404
 const NotFound = () => {
   const navigate = useNavigate();
   
